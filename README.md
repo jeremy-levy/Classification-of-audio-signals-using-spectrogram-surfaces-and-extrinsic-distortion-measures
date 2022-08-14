@@ -1,4 +1,4 @@
-This is the repository for the paper Classification of audio signals using spectrogram surfaces and inherent distortion measures.
+This is the repository for the paper Classification of audio signals using spectrogram surfaces and extrinsic distortion measures.
 
 
 The Matlab script compute_all_specs.m in the Distrotion_Extraction folder allows to perform the mapping of the spectrograms.
